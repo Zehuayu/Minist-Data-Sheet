@@ -7,4 +7,24 @@ The MNIST database (Modified National Institute of Standards and Technology data
 The MNIST database contains 60,000 training images and 10,000 testing images.[6] Half of the training set and half of the test set were taken from NIST's training dataset, while the other half of the training set and the other half of the test set were taken from NIST's testing dataset.[7] There have been a number of scientific papers on attempts to achieve the lowest error rate; one paper, using a hierarchical system of convolutional neural networks, manages to get an error rate on the MNIST database of 0.23 percent.[8] The original creators of the database keep a list of some of the methods tested on it.[5] In their original paper, they use a support vector machine to get an error rate of 0.8 percent.[9]
 
 
-#Question 
+## Question and packge need 
+
+when i install numpy, "pip instal numpy" it is not successful, because computer own both the python2.6 and python3.6, user should type "pip3 install numpy"
+
+numpy: pip3 install numpy
+
+PIL: pip3 install PIL
+
+## question sheet one
+
+read and write
+
+## question sheet two
+
+output photo on console
+
+## question sheet three 
+save photo 
+
+
+##
