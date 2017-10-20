@@ -27,4 +27,12 @@ output photo on console
 save photo 
 
 
-##
+## How to finish question_sheet by Git Hub
+
+one step : create a prorepository in GitHub Website
+
+two step : Clone the repository from website 
+
+three step : type code on [Visual Studio Code](https://code.visualstudio.com/)
+
+four step : push file to GitHub.
